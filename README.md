@@ -6,3 +6,5 @@ Intermediate Coding 6th Semester
 12.12.2024 - SESSION 2 - removeelements, removedupl
 
 19.12.2024 - SESSION 3 - maxprofit, mergealter
+
+26.12.2024 - SESSION 4 - wordrev, move0
