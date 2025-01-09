@@ -11,4 +11,6 @@ Intermediate Coding 6th Semester
 
 02.01.2025 - WEEK 5 - substring, subsequence (392), fizzbuzz (412)
 
+09.01.2025 - WEEK 6 - maxsubarray (53), singlenum (136)
+
 
