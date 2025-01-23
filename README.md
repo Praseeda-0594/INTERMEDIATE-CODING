@@ -13,4 +13,6 @@ Intermediate Coding 6th Semester
 
 09.01.2025 - WEEK 6 - maxsubarray (53), singlenum (136)
 
+23.01.2025 - WEEK 7 - reversell (206), removefullstops, middleofll (876), lloddevensum
+
 
