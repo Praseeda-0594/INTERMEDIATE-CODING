@@ -15,4 +15,5 @@ Intermediate Coding 6th Semester
 
 23.01.2025 - WEEK 7 - reversell (206), removefullstops, middleofll (876), lloddevensum
 
+30.01.2025 - WEEK 8 - mergesort, quicksort, heapsort, peakelement (162)
 
