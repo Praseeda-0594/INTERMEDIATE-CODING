@@ -17,3 +17,5 @@ Intermediate Coding 6th Semester
 
 30.01.2025 - WEEK 8 - mergesort, quicksort, heapsort, peakelement (162)
 
+06.02.2025 - WEEK 9 - deletenode (450), levelorder (102), maxdepth (104), maxlevelsum (1161)
+
